@@ -1,5 +1,8 @@
-new calc program
 no calc program
+=======
+my new calculator program 
+
+>>>>>>> a92659b87ec61b44e467021c0691a2a418959c50
 sum=0
 echo " Enter one no."
 read n1
