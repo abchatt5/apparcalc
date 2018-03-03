@@ -1,5 +1,5 @@
 new calc program
-
+no calc program
 sum=0
 echo " Enter one no."
 read n1
